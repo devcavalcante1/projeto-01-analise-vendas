@@ -46,3 +46,11 @@ precisam ser investigadas antes de validar o faturamento.
 
 ## Status
 Em desenvolvimento.
+
+projeto_01_analise_vendas/
+├── README.md
+├── .gitignore
+├── dados/
+├── src/
+│   └── analise_vendas.py
+└── resultados/
